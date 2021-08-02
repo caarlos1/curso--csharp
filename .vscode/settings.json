@@ -1,4 +1,5 @@
 {
+  "editor.defaultFormatter": "ms-dotnettools.csharp",
   "editor.tabSize": 4,
-  "editor.defaultFormatter": "ms-dotnettools.csharp"
+  "editor.detectIndentation": false
 }
